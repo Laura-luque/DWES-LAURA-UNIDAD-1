@@ -3,8 +3,11 @@
 ### Actividades:
 
 [Actividad 1](#actividad-1)
+
 [Actividad 2](#actividad-2)
+
 [Actividad 3](#actividad-3)
+
 [Actividad 4](#actividad-4)
 
 ---
