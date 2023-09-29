@@ -52,7 +52,7 @@ Ahora instalo PHP:
 Instalación phpmyadmin:
 
 ![ComandoInstalacionphpmyadmin](Act_2/phpmyadmin2.PNG)
-![Comprobacionphpmyadmin](Act_2\muestraphpmyadmin.PNG)
+![Comprobacionphpmyadmin](Act_2/muestraphpmyadmin.PNG)
 
 *3. Configurar la conexión entre el entorno de trabajo y el servidor.*
 
